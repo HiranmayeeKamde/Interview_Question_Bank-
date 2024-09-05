@@ -1,0 +1,51 @@
+Basic Python Scripting Questions:
+---------------------------------
+1. What are Python's key features?
+2. What is the difference between list, tuple, and set?
+3. How does Python handle memory management?
+4. What is the purpose of the self keyword in a class?
+5. How do you manage exceptions in Python?
+6. What is the difference between is and == in Python?
+7. What are list comprehensions and how do they work?
+
+
+
+Python Scripting Questions?
+------------------------------------
+1. What are decorators and how do you use them?
+2. Explain the concept of Python closures.
+3. What is the GIL (Global Interpreter Lock) in Python?
+4. What are the differences between deep copy and shallow copy?
+5. How would you reverse a string in Python?
+6. Explain how the with statement works in Python.
+7. How do you work with virtual environments in Python?
+8. What is the difference between multithreading and multiprocessing in Python?
+9. What is metaprogramming in Python?
+10. Explain how generators work and how they differ from regular functions.
+11. How do you implement a custom iterator in Python?
+12. How do you handle concurrency in Python with asyncio?
+13. How does Python's @property decorator work?
+14. What is monkey patching in Python, and how can you use it?
+15, What is the difference between multithreading and multiprocessing in Python?
+16. What is metaprogramming in Python?
+17. Explain how generators work and how they differ from regular functions.
+18. How do you implement a custom iterator in Python?
+19. How do you handle concurrency in Python with asyncio?
+20. How does Python's @property decorator work?
+21. What is monkey patching in Python, and how can you use it?
+
+Behavioral Python Question
+-------------------------------
+1. How do you optimize the performance of a Python script?
+2. What tools or libraries do you use for testing in Python?
+3. How do you handle memory-intensive tasks in Python?
+
+Practical Coding Questions:
+------------------------------
+1. Write a Python script to count the number of occurrences of each word in a file.
+2. How would you sort a dictionary by its values?
+3. Write a Python program to find the second largest element in a list.
+4. How would you merge two dictionaries in Python?
+5. Write a function to check if a string is a palindrome.
+6. How do you implement a simple recursive function to calculate the factorial of a number?
+7. Write a Python script to flatten a nested list.

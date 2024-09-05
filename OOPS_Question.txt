@@ -1,0 +1,30 @@
+Basic OOP Questions:
+----------------------
+1. What is Object-Oriented Programming (OOP)?
+2. What is a class and how is it defined in Python?
+3. What is an object in Python?
+4. What are attributes and methods in Python classes?
+5. What is the purpose of the __init__ method?
+
+Intermediate OOP Questions
+------------------------------
+
+6. What is inheritance in Python?
+7. What is method overriding?
+8. What is encapsulation?
+9. What is polymorphism in Python?
+10. What is abstraction in OOP?
+
+Advanced OOP Questions
+------------------------
+
+11. What are class methods and static methods?
+12. What is a metaclass in Python?
+13. How does multiple inheritance work in Python?
+14. What is the difference between composition and inheritance?
+15. How do you implement a singleton pattern in Python?
+
+Behavioral OOP Questions:
+--------------------------
+16. How do you design a system using OOP principles?
+17. an you describe a time when you used OOP to solve a complex problem?
